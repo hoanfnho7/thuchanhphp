@@ -1,0 +1,67 @@
+#container{
+    position: relative;
+    height: auto;
+    width: 1000px;
+    margin: 8px auto;
+}
+#header{
+    float: left;
+    height: 100px;
+    width: 100%;
+    background-color: aqua;
+    margin-bottom: 2px;
+}
+#main{
+    float: left;
+    height: 500px;
+    width: 100%;
+    margin-bottom: 2px;
+}
+#footer{
+    float: left;
+    height: 50px;
+    width: 100%;
+    background-color: black;
+}
+#left{
+    float: left;
+    height: 100%;
+    width: 150px;
+    background-color: bisque;
+    margin-right: 2px;
+}
+#right{
+    float: left;
+    height: 100%;
+    width: 848px;
+    background-color: bisque;
+}
+#sanpham{
+    float: left;
+    height: 220px;
+    width: 160px;
+    margin-top: 2px;
+    margin-left: 2px;
+    border:solid 1px red;
+}
+#ten_sanpham{
+    float: left;
+    height: 25px;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    color: green;
+}
+#gia_sanpham{
+    float: left;
+    height: 25px;
+    width: 100%;
+    font-weight: bold;
+    text-align: center;
+    color: green;
+}
+#hinh_sanpham{
+    float: left;
+    height: 160px;
+    width: 100%;
+}
